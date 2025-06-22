@@ -1,0 +1,6 @@
+train_name,source,destination,delay_minutes,date
+Rajdhani Express,Delhi,Kolkata,25,2024-01-10
+Duronto Express,Mumbai,Nagpur,0,2024-01-12
+Howrah Express,Kolkata,Chennai,80,2024-01-14
+Shatabdi Express,Delhi,Bhopal,15,2024-01-15
+Intercity Express,Bangalore,Hyderabad,45,2024-01-16
