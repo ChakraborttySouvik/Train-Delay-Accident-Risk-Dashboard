@@ -1,0 +1,201 @@
+                     Train Name,Source,Destination,Scheduled Arrival,Actual Arrival,Delay (Minutes)
+Antyodaya Express 12393,Hyderabad,Mumbai,01-04-2024 17:06,01-04-2024 17:26,20
+Antyodaya Express 10556,Lucknow,Hyderabad,01-04-2024 07:48,01-04-2024 08:48,60
+Uday Express 10361,Lucknow,Mumbai,01-04-2024 13:32,01-04-2024 14:02,30
+Superfast Express 12390,Ahmedabad,Mumbai,01-04-2024 12:40,01-04-2024 12:50,10
+Vande Bharat Express 10809,Pune,Kolkata,01-04-2024 09:43,01-04-2024 09:53,10
+Superfast Express 12829,Pune,Chennai,01-04-2024 13:00,01-04-2024 13:30,30
+Shatabdi Express 12759,Kolkata,Mumbai,01-04-2024 09:04,01-04-2024 10:34,90
+Humsafar Express 12291,Jaipur,Bangalore,01-04-2024 06:33,01-04-2024 07:33,60
+Shatabdi Express 12592,Bangalore,Hyderabad,01-04-2024 08:01,01-04-2024 08:11,10
+Garib Rath Express 11096,Lucknow,Hyderabad,01-04-2024 09:03,01-04-2024 10:33,90
+Uday Express 10908,Pune,Mumbai,01-04-2024 12:00,01-04-2024 12:25,25
+Sampark Kranti Express 12635,Bangalore,Delhi,01-04-2024 08:06,01-04-2024 08:51,45
+Garib Rath Express 10993,Pune,Chennai,01-04-2024 12:30,01-04-2024 12:55,25
+Duronto Express 11521,Chennai,Pune,01-04-2024 11:17,01-04-2024 11:32,15
+Sampark Kranti Express 11525,Pune,Mumbai,01-04-2024 09:28,01-04-2024 10:58,90
+Double Decker Express 10455,Bangalore,Hyderabad,01-04-2024 14:57,01-04-2024 16:57,120
+Shatabdi Express 10353,Chennai,Hyderabad,01-04-2024 09:51,01-04-2024 10:06,15
+Yuva Express 11195,Mumbai,Delhi,01-04-2024 13:37,01-04-2024 14:02,25
+Rajdhani Express 10484,Ahmedabad,Kolkata,01-04-2024 15:21,01-04-2024 15:46,25
+Rajdhani Express 12828,Delhi,Hyderabad,01-04-2024 06:16,01-04-2024 06:41,25
+Vande Bharat Express 11442,Kolkata,Pune,01-04-2024 12:27,01-04-2024 12:37,10
+Superfast Express 11651,Mumbai,Chennai,01-04-2024 16:55,01-04-2024 17:20,25
+Duronto Express 12943,Ahmedabad,Jaipur,01-04-2024 06:03,01-04-2024 07:03,60
+Sampark Kranti Express 12267,Pune,Ahmedabad,01-04-2024 10:40,01-04-2024 11:25,45
+Vande Bharat Express 10705,Delhi,Kolkata,01-04-2024 16:35,01-04-2024 17:35,60
+Garib Rath Express 12879,Mumbai,Hyderabad,01-04-2024 15:08,01-04-2024 17:08,120
+Jan Shatabdi Express 11346,Mumbai,Ahmedabad,01-04-2024 16:16,01-04-2024 16:31,15
+Suvidha Express 10256,Jaipur,Ahmedabad,01-04-2024 07:16,01-04-2024 07:46,30
+Humsafar Express 11223,Lucknow,Ahmedabad,01-04-2024 08:56,01-04-2024 09:26,30
+Festival Special 11064,Jaipur,Pune,01-04-2024 16:53,01-04-2024 17:53,60
+Passenger Express 10119,Mumbai,Hyderabad,01-04-2024 17:39,01-04-2024 18:39,60
+Intercity Express 10653,Bangalore,Hyderabad,01-04-2024 09:25,01-04-2024 10:25,60
+Suvidha Express 12647,Kolkata,Delhi,01-04-2024 16:01,01-04-2024 16:06,5
+Vande Bharat Express 11798,Hyderabad,Delhi,01-04-2024 06:43,01-04-2024 08:13,90
+Antyodaya Express 11992,Jaipur,Pune,01-04-2024 11:48,01-04-2024 12:03,15
+Passenger Express 12696,Kolkata,Mumbai,01-04-2024 15:14,01-04-2024 15:14,0
+Humsafar Express 10657,Chennai,Bangalore,01-04-2024 12:30,01-04-2024 14:30,120
+Rajdhani Express 12451,Chennai,Bangalore,01-04-2024 11:59,01-04-2024 13:59,120
+Garib Rath Express 10788,Mumbai,Pune,01-04-2024 10:39,01-04-2024 10:44,5
+Sampoorna Kranti Express 10948,Delhi,Bangalore,01-04-2024 16:41,01-04-2024 17:01,20
+Humsafar Express 10953,Chennai,Lucknow,01-04-2024 12:03,01-04-2024 12:03,0
+Shatabdi Express 10023,Hyderabad,Pune,01-04-2024 12:42,01-04-2024 14:12,90
+Vande Bharat Express 12535,Hyderabad,Bangalore,01-04-2024 12:10,01-04-2024 12:10,0
+Passenger Express 10012,Ahmedabad,Lucknow,01-04-2024 07:33,01-04-2024 07:33,0
+Duronto Express 11505,Hyderabad,Pune,01-04-2024 15:54,01-04-2024 17:54,120
+Sampoorna Kranti Express 12443,Delhi,Bangalore,01-04-2024 07:37,01-04-2024 09:37,120
+Sampoorna Kranti Express 10248,Kolkata,Pune,01-04-2024 17:58,01-04-2024 18:08,10
+Rajdhani Express 10730,Hyderabad,Bangalore,01-04-2024 14:10,01-04-2024 14:35,25
+Mail Express 12265,Delhi,Hyderabad,01-04-2024 11:59,01-04-2024 13:59,120
+Duronto Express 11681,Kolkata,Ahmedabad,01-04-2024 13:52,01-04-2024 13:57,5
+Passenger Express 10508,Ahmedabad,Lucknow,01-04-2024 11:11,01-04-2024 11:26,15
+Double Decker Express 10186,Bangalore,Mumbai,01-04-2024 16:24,01-04-2024 16:49,25
+Humsafar Express 12722,Mumbai,Hyderabad,01-04-2024 12:36,01-04-2024 14:06,90
+Suvidha Express 12914,Pune,Chennai,01-04-2024 06:10,01-04-2024 06:35,25
+Antyodaya Express 11561,Jaipur,Pune,01-04-2024 13:26,01-04-2024 13:26,0
+Shatabdi Express 10706,Jaipur,Hyderabad,01-04-2024 07:58,01-04-2024 08:08,10
+Mail Express 12722,Kolkata,Bangalore,01-04-2024 07:12,01-04-2024 07:17,5
+Intercity Express 11878,Mumbai,Ahmedabad,01-04-2024 09:15,01-04-2024 10:00,45
+Humsafar Express 10686,Hyderabad,Kolkata,01-04-2024 12:33,01-04-2024 14:03,90
+Yuva Express 12920,Bangalore,Delhi,01-04-2024 07:09,01-04-2024 07:14,5
+Tejas Express 10200,Kolkata,Chennai,01-04-2024 09:19,01-04-2024 09:34,15
+Double Decker Express 12800,Lucknow,Mumbai,01-04-2024 12:25,01-04-2024 12:35,10
+Sampark Kranti Express 11149,Lucknow,Mumbai,01-04-2024 08:24,01-04-2024 09:54,90
+Uday Express 12292,Delhi,Kolkata,01-04-2024 13:28,01-04-2024 13:38,10
+Shatabdi Express 11825,Jaipur,Ahmedabad,01-04-2024 08:50,01-04-2024 10:20,90
+Tejas Express 11498,Hyderabad,Jaipur,01-04-2024 08:41,01-04-2024 08:56,15
+Sampoorna Kranti Express 12348,Bangalore,Lucknow,01-04-2024 07:26,01-04-2024 07:41,15
+Vande Bharat Express 12540,Jaipur,Kolkata,01-04-2024 11:56,01-04-2024 12:01,5
+Mail Express 10260,Pune,Delhi,01-04-2024 06:08,01-04-2024 08:08,120
+Yuva Express 11896,Lucknow,Delhi,01-04-2024 15:21,01-04-2024 15:46,25
+Rajdhani Express 10059,Chennai,Hyderabad,01-04-2024 16:34,01-04-2024 16:34,0
+Sampark Kranti Express 12917,Pune,Jaipur,01-04-2024 12:49,01-04-2024 12:54,5
+Tejas Express 11738,Chennai,Bangalore,01-04-2024 09:50,01-04-2024 10:00,10
+Rajdhani Express 12763,Ahmedabad,Kolkata,01-04-2024 15:06,01-04-2024 15:21,15
+Intercity Express 10622,Jaipur,Mumbai,01-04-2024 09:21,01-04-2024 09:41,20
+Yuva Express 10940,Ahmedabad,Chennai,01-04-2024 17:14,01-04-2024 19:14,120
+Yuva Express 10627,Lucknow,Kolkata,01-04-2024 07:56,01-04-2024 09:26,90
+Duronto Express 12135,Bangalore,Delhi,01-04-2024 13:56,01-04-2024 14:01,5
+Suvidha Express 12231,Bangalore,Chennai,01-04-2024 10:22,01-04-2024 10:27,5
+Festival Special 11992,Mumbai,Ahmedabad,01-04-2024 17:41,01-04-2024 19:41,120
+Garib Rath Express 11848,Ahmedabad,Bangalore,01-04-2024 07:46,01-04-2024 09:16,90
+Sampark Kranti Express 12078,Chennai,Delhi,01-04-2024 12:10,01-04-2024 12:10,0
+Intercity Express 10631,Chennai,Lucknow,01-04-2024 13:28,01-04-2024 13:38,10
+Garib Rath Express 12115,Ahmedabad,Jaipur,01-04-2024 06:24,01-04-2024 06:54,30
+Shatabdi Express 11157,Delhi,Pune,01-04-2024 14:09,01-04-2024 15:09,60
+Antyodaya Express 12754,Bangalore,Chennai,01-04-2024 10:24,01-04-2024 10:34,10
+Rajdhani Express 12665,Lucknow,Kolkata,01-04-2024 16:11,01-04-2024 16:21,10
+Jan Shatabdi Express 12584,Lucknow,Kolkata,01-04-2024 14:53,01-04-2024 15:08,15
+Uday Express 10563,Delhi,Jaipur,01-04-2024 13:48,01-04-2024 15:18,90
+Duronto Express 12103,Ahmedabad,Jaipur,01-04-2024 16:55,01-04-2024 17:40,45
+Humsafar Express 12701,Jaipur,Chennai,01-04-2024 14:27,01-04-2024 15:57,90
+Suvidha Express 12500,Bangalore,Chennai,01-04-2024 09:11,01-04-2024 09:16,5
+Yuva Express 11808,Ahmedabad,Pune,01-04-2024 15:47,01-04-2024 16:12,25
+Sampoorna Kranti Express 11989,Delhi,Chennai,01-04-2024 06:32,01-04-2024 08:02,90
+Vande Bharat Express 11997,Mumbai,Ahmedabad,01-04-2024 11:42,01-04-2024 11:52,10
+Superfast Express 10582,Kolkata,Chennai,01-04-2024 14:21,01-04-2024 14:46,25
+Garib Rath Express 12004,Chennai,Kolkata,01-04-2024 06:18,01-04-2024 06:38,20
+Intercity Express 11065,Lucknow,Pune,01-04-2024 09:38,01-04-2024 10:23,45
+Passenger Express 10228,Kolkata,Lucknow,01-04-2024 09:43,01-04-2024 09:48,5
+Sampoorna Kranti Express 10619,Kolkata,Ahmedabad,01-04-2024 13:36,01-04-2024 13:51,15
+Mail Express 11367,Pune,Chennai,01-04-2024 08:38,01-04-2024 08:58,20
+Suvidha Express 11245,Chennai,Bangalore,01-04-2024 07:24,01-04-2024 07:39,15
+Jan Shatabdi Express 11961,Bangalore,Kolkata,01-04-2024 14:19,01-04-2024 14:34,15
+Festival Special 12695,Ahmedabad,Pune,01-04-2024 07:15,01-04-2024 08:45,90
+Superfast Express 10904,Mumbai,Hyderabad,01-04-2024 07:12,01-04-2024 08:42,90
+Festival Special 12292,Kolkata,Lucknow,01-04-2024 06:47,01-04-2024 07:47,60
+Double Decker Express 11543,Jaipur,Bangalore,01-04-2024 14:46,01-04-2024 16:16,90
+Mail Express 12964,Chennai,Delhi,01-04-2024 16:41,01-04-2024 17:01,20
+Passenger Express 10476,Kolkata,Bangalore,01-04-2024 13:34,01-04-2024 13:59,25
+Passenger Express 12169,Hyderabad,Delhi,01-04-2024 07:03,01-04-2024 08:33,90
+Humsafar Express 11045,Delhi,Ahmedabad,01-04-2024 07:54,01-04-2024 08:04,10
+Passenger Express 10429,Bangalore,Kolkata,01-04-2024 13:17,01-04-2024 14:02,45
+Superfast Express 10714,Kolkata,Chennai,01-04-2024 15:43,01-04-2024 15:58,15
+Humsafar Express 12683,Chennai,Lucknow,01-04-2024 09:20,01-04-2024 09:35,15
+Sampark Kranti Express 10539,Jaipur,Chennai,01-04-2024 09:18,01-04-2024 09:28,10
+Vande Bharat Express 12777,Mumbai,Jaipur,01-04-2024 10:34,01-04-2024 12:04,90
+Rajdhani Express 11736,Hyderabad,Pune,01-04-2024 15:10,01-04-2024 15:35,25
+Suvidha Express 12129,Bangalore,Kolkata,01-04-2024 08:57,01-04-2024 09:07,10
+Humsafar Express 11082,Delhi,Jaipur,01-04-2024 14:15,01-04-2024 15:45,90
+Jan Shatabdi Express 12481,Hyderabad,Jaipur,01-04-2024 17:52,01-04-2024 19:52,120
+Garib Rath Express 11486,Lucknow,Hyderabad,01-04-2024 08:51,01-04-2024 09:36,45
+Intercity Express 12996,Hyderabad,Chennai,01-04-2024 15:46,01-04-2024 16:31,45
+Rajdhani Express 12004,Lucknow,Delhi,01-04-2024 09:11,01-04-2024 10:11,60
+Antyodaya Express 10630,Delhi,Lucknow,01-04-2024 10:51,01-04-2024 11:36,45
+Jan Shatabdi Express 12459,Delhi,Lucknow,01-04-2024 16:45,01-04-2024 18:15,90
+Intercity Express 12367,Jaipur,Bangalore,01-04-2024 16:11,01-04-2024 18:11,120
+Double Decker Express 10970,Hyderabad,Mumbai,01-04-2024 11:29,01-04-2024 11:54,25
+Passenger Express 11495,Ahmedabad,Delhi,01-04-2024 06:13,01-04-2024 08:13,120
+Intercity Express 12039,Chennai,Pune,01-04-2024 08:02,01-04-2024 08:27,25
+Intercity Express 12965,Mumbai,Delhi,01-04-2024 17:30,01-04-2024 19:30,120
+Duronto Express 11047,Jaipur,Hyderabad,01-04-2024 07:11,01-04-2024 07:11,0
+Humsafar Express 12923,Lucknow,Kolkata,01-04-2024 08:50,01-04-2024 09:20,30
+Intercity Express 11718,Kolkata,Bangalore,01-04-2024 14:55,01-04-2024 15:15,20
+Mail Express 11266,Hyderabad,Kolkata,01-04-2024 10:56,01-04-2024 11:06,10
+Vande Bharat Express 10615,Bangalore,Ahmedabad,01-04-2024 07:26,01-04-2024 08:56,90
+Shatabdi Express 10531,Ahmedabad,Lucknow,01-04-2024 13:50,01-04-2024 13:50,0
+Tejas Express 11495,Ahmedabad,Bangalore,01-04-2024 15:25,01-04-2024 15:30,5
+Mail Express 12213,Lucknow,Chennai,01-04-2024 16:58,01-04-2024 16:58,0
+Garib Rath Express 12552,Kolkata,Mumbai,01-04-2024 12:04,01-04-2024 12:19,15
+Double Decker Express 12438,Lucknow,Ahmedabad,01-04-2024 09:10,01-04-2024 09:30,20
+Shatabdi Express 12269,Bangalore,Kolkata,01-04-2024 16:28,01-04-2024 16:53,25
+Festival Special 10295,Delhi,Lucknow,01-04-2024 16:10,01-04-2024 16:20,10
+Double Decker Express 12524,Delhi,Kolkata,01-04-2024 10:46,01-04-2024 11:06,20
+Rajdhani Express 10705,Ahmedabad,Delhi,01-04-2024 06:31,01-04-2024 06:56,25
+Rajdhani Express 12268,Kolkata,Chennai,01-04-2024 16:04,01-04-2024 16:29,25
+Garib Rath Express 12266,Ahmedabad,Chennai,01-04-2024 11:05,01-04-2024 11:30,25
+Yuva Express 11871,Mumbai,Kolkata,01-04-2024 14:09,01-04-2024 14:39,30
+Passenger Express 10708,Ahmedabad,Bangalore,01-04-2024 12:25,01-04-2024 13:10,45
+Festival Special 12732,Kolkata,Bangalore,01-04-2024 12:55,01-04-2024 13:40,45
+Intercity Express 10791,Kolkata,Ahmedabad,01-04-2024 14:24,01-04-2024 15:24,60
+Passenger Express 11388,Mumbai,Chennai,01-04-2024 14:38,01-04-2024 15:08,30
+Vande Bharat Express 11109,Pune,Ahmedabad,01-04-2024 15:07,01-04-2024 15:27,20
+Rajdhani Express 11050,Lucknow,Bangalore,01-04-2024 11:17,01-04-2024 11:42,25
+Suvidha Express 10475,Hyderabad,Bangalore,01-04-2024 16:18,01-04-2024 16:38,20
+Antyodaya Express 12798,Mumbai,Ahmedabad,01-04-2024 12:50,01-04-2024 13:00,10
+Vande Bharat Express 12440,Mumbai,Bangalore,01-04-2024 08:49,01-04-2024 08:59,10
+Festival Special 11531,Mumbai,Chennai,01-04-2024 08:21,01-04-2024 10:21,120
+Antyodaya Express 11627,Delhi,Ahmedabad,01-04-2024 13:17,01-04-2024 13:37,20
+Duronto Express 12981,Pune,Chennai,01-04-2024 14:23,01-04-2024 14:53,30
+Tejas Express 12361,Pune,Lucknow,01-04-2024 11:09,01-04-2024 11:14,5
+Jan Shatabdi Express 10047,Jaipur,Hyderabad,01-04-2024 08:41,01-04-2024 09:11,30
+Sampoorna Kranti Express 10312,Delhi,Hyderabad,01-04-2024 07:00,01-04-2024 07:25,25
+Rajdhani Express 12826,Chennai,Ahmedabad,01-04-2024 14:30,01-04-2024 16:30,120
+Sampoorna Kranti Express 11448,Jaipur,Ahmedabad,01-04-2024 15:24,01-04-2024 15:54,30
+Yuva Express 11488,Lucknow,Jaipur,01-04-2024 07:56,01-04-2024 08:16,20
+Rajdhani Express 12299,Jaipur,Mumbai,01-04-2024 14:15,01-04-2024 15:45,90
+Tejas Express 10841,Jaipur,Bangalore,01-04-2024 08:36,01-04-2024 08:41,5
+Antyodaya Express 12190,Pune,Chennai,01-04-2024 15:03,01-04-2024 16:33,90
+Sampoorna Kranti Express 12928,Bangalore,Ahmedabad,01-04-2024 16:52,01-04-2024 17:52,60
+Yuva Express 10708,Delhi,Hyderabad,01-04-2024 15:51,01-04-2024 17:21,90
+Festival Special 11496,Jaipur,Ahmedabad,01-04-2024 06:51,01-04-2024 07:16,25
+Jan Shatabdi Express 12001,Jaipur,Delhi,01-04-2024 07:03,01-04-2024 07:03,0
+Intercity Express 12281,Jaipur,Chennai,01-04-2024 13:51,01-04-2024 14:01,10
+Yuva Express 12032,Kolkata,Lucknow,01-04-2024 16:16,01-04-2024 16:31,15
+Suvidha Express 10760,Delhi,Bangalore,01-04-2024 10:33,01-04-2024 10:53,20
+Sampark Kranti Express 10220,Mumbai,Pune,01-04-2024 10:39,01-04-2024 10:54,15
+Sampark Kranti Express 10325,Jaipur,Ahmedabad,01-04-2024 17:50,01-04-2024 18:15,25
+Festival Special 11555,Hyderabad,Chennai,01-04-2024 13:01,01-04-2024 13:06,5
+Suvidha Express 10096,Pune,Lucknow,01-04-2024 12:35,01-04-2024 12:45,10
+Tejas Express 12264,Mumbai,Ahmedabad,01-04-2024 09:42,01-04-2024 09:42,0
+Uday Express 11472,Hyderabad,Pune,01-04-2024 06:01,01-04-2024 06:01,0
+Uday Express 11348,Chennai,Pune,01-04-2024 17:05,01-04-2024 18:05,60
+Shatabdi Express 10647,Delhi,Hyderabad,01-04-2024 12:31,01-04-2024 12:56,25
+Mail Express 11598,Mumbai,Delhi,01-04-2024 15:57,01-04-2024 16:22,25
+Tejas Express 10057,Pune,Mumbai,01-04-2024 14:08,01-04-2024 14:23,15
+Passenger Express 12298,Jaipur,Lucknow,01-04-2024 14:17,01-04-2024 14:22,5
+Shatabdi Express 10176,Delhi,Lucknow,01-04-2024 15:23,01-04-2024 15:33,10
+Sampark Kranti Express 11491,Hyderabad,Bangalore,01-04-2024 12:15,01-04-2024 13:15,60
+Suvidha Express 10782,Bangalore,Lucknow,01-04-2024 08:45,01-04-2024 09:15,30
+Suvidha Express 11050,Lucknow,Kolkata,01-04-2024 08:19,01-04-2024 09:19,60
+Suvidha Express 11222,Hyderabad,Jaipur,01-04-2024 08:50,01-04-2024 09:15,25
+Passenger Express 11607,Pune,Bangalore,01-04-2024 07:53,01-04-2024 08:53,60
+Tejas Express 10663,Lucknow,Mumbai,01-04-2024 07:05,01-04-2024 07:05,0
+Garib Rath Express 10268,Delhi,Chennai,01-04-2024 17:34,01-04-2024 18:34,60
+Double Decker Express 12847,Mumbai,Bangalore,01-04-2024 14:45,01-04-2024 14:55,10
+Festival Special 10292,Chennai,Mumbai,01-04-2024 17:20,01-04-2024 18:05,45
+Double Decker Express 12891,Lucknow,Kolkata,01-04-2024 10:31,01-04-2024 10:46,15
+Passenger Express 10500,Pune,Hyderabad,01-04-2024 13:01,01-04-2024 15:01,120
+Sampark Kranti Express 11602,Kolkata,Bangalore,01-04-2024 11:04,01-04-2024 12:04,60
+Duronto Express 12484,Hyderabad,Delhi,01-04-2024 10:34,01-04-2024 10:49,15
